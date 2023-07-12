@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - won
+  - gift
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - camera
+  - lstrana_collision
+  - player
+  - zed
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: player
+    uniqueID: 2974581181
+    locked: 0
+  - name: grass
+    uniqueID: 4043136187
+    locked: 0
+  - name: dirt
+    uniqueID: 3123054299
+    locked: 0
+  - name: background
+    uniqueID: 1354558137
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
