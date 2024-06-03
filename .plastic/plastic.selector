@@ -1,0 +1,4 @@
+repository "MAJSNER GAME@Thomasino@cloud"
+  path "/"
+    br "/main"
+    co "/main"
